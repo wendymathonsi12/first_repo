@@ -9,10 +9,10 @@ on:
       -main
  
 jobs:
-   demo-jobs: build 
+  demo-jobs: build 
       runs-on : ubuntu-latest
 
-   steps:
+    steps:
      -uses: checkout@v3
      -name: checkout repository
 
