@@ -1,0 +1,9 @@
+name: ce
+
+on:
+ push:
+    branches:
+     -main
+
+
+
